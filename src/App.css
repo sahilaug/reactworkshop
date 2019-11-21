@@ -20,3 +20,31 @@
 .App-link {
   color: #09d3ac;
 }
+
+.card-container {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card-banner-img { 
+  height: 200px;
+  width: 200px;
+  align-self: center
+}
+
+.card {
+  width: 30%;
+  border: 1px solid black;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.p20 {
+  padding: 20px;
+}

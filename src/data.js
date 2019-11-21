@@ -1,0 +1,347 @@
+export default [
+    {
+        "score": 32.082314,
+        "show": {
+            "id": 169,
+            "url": "http://www.tvmaze.com/shows/169/breaking-bad",
+            "name": "Breaking Bad",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama",
+                "Crime",
+                "Thriller"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "premiered": "2008-01-20",
+            "officialSite": "http://www.amc.com/shows/breaking-bad",
+            "schedule": {
+                "time": "22:00",
+                "days": [
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": 9.3
+            },
+            "weight": 96,
+            "network": {
+                "id": 20,
+                "name": "AMC",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                }
+            },
+            "webChannel": {
+                "id": 1,
+                "name": "Netflix",
+                "country": null
+            },
+            "externals": {
+                "tvrage": 18164,
+                "thetvdb": 81189,
+                "imdb": "tt0903747"
+            },
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/2400.jpg"
+            },
+            "summary": "<p><b>Breaking Bad</b> follows protagonist Walter White, a chemistry teacher who lives in New Mexico with his wife and teenage son who has cerebral palsy. White is diagnosed with Stage III cancer and given a prognosis of two years left to live. With a new sense of fearlessness based on his medical prognosis, and a desire to secure his family's financial security, White chooses to enter a dangerous world of drugs and crime and ascends to power in this world. The series explores how a fatal diagnosis such as White's releases a typical man from the daily concerns and constraints of normal society and follows his transformation from mild family man to a kingpin of the drug trade.</p>",
+            "updated": 1573066854,
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/shows/169"
+                },
+                "previousepisode": {
+                    "href": "http://api.tvmaze.com/episodes/12253"
+                }
+            }
+        }
+    },
+    {
+        "score": 17.444408,
+        "show": {
+            "id": 27845,
+            "url": "http://www.tvmaze.com/shows/27845/breaking-bad-original-minisodes",
+            "name": "Breaking Bad: Original Minisodes",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Comedy",
+                "Crime"
+            ],
+            "status": "Ended",
+            "runtime": 5,
+            "premiered": "2009-02-17",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 50,
+            "network": {
+                "id": 20,
+                "name": "AMC",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                }
+            },
+            "webChannel": {
+                "id": 142,
+                "name": "amc.com",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                }
+            },
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": "tt2387761"
+            },
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/216/540867.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/216/540867.jpg"
+            },
+            "summary": "<p>Watch Hank and Marie as they celebrate Valentine's Day in the bedroom in \"Good Cop, Bad Cop\". View a flashback to Hank and Marie's wedding as the groom discusses with Walt his last wild night as a bachelor in \"Wedding Day\". Go inside Jesse's band TwaughtHammer as he and Badger make a behind-the-music documentary, and sing along to the full music video for their song \"Fallacies\". Finally, watch Marie discuss politics and patriotism in her personal video diary, \"Marie's Confession\".</p>",
+            "updated": 1571495596,
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/shows/27845"
+                },
+                "previousepisode": {
+                    "href": "http://api.tvmaze.com/episodes/1163332"
+                }
+            }
+        }
+    },
+    {
+        "score": 5.6189013,
+        "show": {
+            "id": 1003,
+            "url": "http://www.tvmaze.com/shows/1003/talking-bad",
+            "name": "Talking Bad",
+            "type": "Talk Show",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 30,
+            "premiered": "2013-08-11",
+            "officialSite": null,
+            "schedule": {
+                "time": "23:05",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 0,
+            "network": {
+                "id": 20,
+                "name": "AMC",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                }
+            },
+            "webChannel": null,
+            "externals": {
+                "tvrage": 36082,
+                "thetvdb": 272219,
+                "imdb": "tt3115468"
+            },
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/6/16586.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/6/16586.jpg"
+            },
+            "summary": "<p><i><b>\"Talking Bad\"</b></i> features Hardwick spending time with fans, actors, producers and tv enthusiasts, recapping the most recent <i>Breaking Bad</i> episode, and taking questions and comments from viewers. Fans may continue to engage with the after-show following the on-air conclusion, online, at amc.com for more videos, weekly polls and photo galleries of the guests featured on the series.</p>",
+            "updated": 1572098684,
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/shows/1003"
+                },
+                "previousepisode": {
+                    "href": "http://api.tvmaze.com/episodes/98903"
+                }
+            }
+        }
+    },
+    {
+        "score": 4.6049385,
+        "show": {
+            "id": 6101,
+            "url": "http://www.tvmaze.com/shows/6101/breaking-band",
+            "name": "Breaking Band",
+            "type": "Reality",
+            "language": "English",
+            "genres": [
+                "Music"
+            ],
+            "status": "Ended",
+            "runtime": 30,
+            "premiered": "2016-01-24",
+            "officialSite": "http://breakingband.com",
+            "schedule": {
+                "time": "21:30",
+                "days": [
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 42,
+            "network": {
+                "id": 170,
+                "name": "AXS TV",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                }
+            },
+            "webChannel": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 306432,
+                "imdb": "tt4854852"
+            },
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/23/59291.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/23/59291.jpg"
+            },
+            "summary": "<p><b>Breaking Band</b> places legendary musical artists into the role of mentors, pairing them with up-and-coming artists for a once in a lifetime collaboration. This seasons mentors are musician and TV personality Mark McGrath (Sugar Ray), pop queen Belinda Carlisle (The Go-Go's), rock legend Robin Zander (Cheap Trick), award winning producer and techno icon Moby, metal master Sebastian Bach (Skid Row), and guitar idol Dave Navarro (Janes Addiction).</p><p>As mentors, their role is to share advice and to support the breaking artists debut live performance – potentially even taking the stage to join them for the encore to make broadcast history.Each episode of Breaking Band features emerging artists whom are mentored by musical legends as they take the stage for the biggest show of their career!</p>",
+            "updated": 1556105511,
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/shows/6101"
+                },
+                "previousepisode": {
+                    "href": "http://api.tvmaze.com/episodes/623356"
+                }
+            }
+        }
+    },
+    {
+        "score": 2.291449,
+        "show": {
+            "id": 16956,
+            "url": "http://www.tvmaze.com/shows/16956/baking-mad-with-eric-lanlard",
+            "name": "Baking Mad with Eric Lanlard",
+            "type": "Reality",
+            "language": "English",
+            "genres": [
+                "Food"
+            ],
+            "status": "To Be Determined",
+            "runtime": 30,
+            "premiered": "2016-05-23",
+            "officialSite": "http://www.channel4.com/programmes/baking-mad-with-eric-lanlard",
+            "schedule": {
+                "time": "20:00",
+                "days": [
+                    "Monday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 0,
+            "network": {
+                "id": 45,
+                "name": "Channel 4",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                }
+            },
+            "webChannel": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 249580,
+                "imdb": null
+            },
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/174876.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/174876.jpg"
+            },
+            "summary": "<p>Master patissier Eric Lanlard helps people create the perfect bakes.</p>",
+            "updated": 1476682676,
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/shows/16956"
+                },
+                "previousepisode": {
+                    "href": "http://api.tvmaze.com/episodes/778604"
+                }
+            }
+        }
+    },
+    {
+        "score": 2.291449,
+        "show": {
+            "id": 16956,
+            "url": "http://www.tvmaze.com/shows/16956/baking-mad-with-eric-lanlard",
+            "name": "Baking Mad with Eric Lanlard",
+            "type": "Reality",
+            "language": "English",
+            "genres": [
+                "Food"
+            ],
+            "status": "To Be Determined",
+            "runtime": 30,
+            "premiered": "2016-05-23",
+            "officialSite": "http://www.channel4.com/programmes/baking-mad-with-eric-lanlard",
+            "schedule": {
+                "time": "20:00",
+                "days": [
+                    "Monday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 0,
+            "network": {
+                "id": 45,
+                "name": "Channel 4",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                }
+            },
+            "webChannel": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 249580,
+                "imdb": null
+            },
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/174876.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/174876.jpg"
+            },
+            "summary": "<p>Master patissier Eric Lanlard helps people create the perfect bakes.</p>",
+            "updated": 1476682676,
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/shows/16956"
+                },
+                "previousepisode": {
+                    "href": "http://api.tvmaze.com/episodes/778604"
+                }
+            }
+        }
+    }
+]
