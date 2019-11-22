@@ -1,23 +1,21 @@
-import React from 'react'
+import React from 'react';
 import data from './data';
 
 export default function App() {
   return (
     <div className="card-container">
       {
-        data.map(d => {
-          return <Card {...d}></Card>
-        })
+        data.map((d) => <Card {...d} />)
       }
     </div>
-  )
+  );
 }
 
-const Card = ({ show: { name, image: { medium } } }) => {
-  return <div className="card p20">
-    <img alt={name} src={medium} className="card-banner-img"></img>
+const Card = ({ show: { name, image: { medium } } }) => (
+  <div className="card p20">
+    <img alt={name} src={medium} className="card-banner-img" />
     <div>
       <span>{name}</span>
     </div>
   </div>
-}
+);
