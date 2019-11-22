@@ -3,7 +3,6 @@ import data from './data';
 
 const a = 0;
 
-
 export default function App() {
   return (
     <div className="card-container">
