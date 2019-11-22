@@ -16,7 +16,7 @@
     "lint:fix": "./node_modules/.bin/eslint --fix ."
   },
   "lint-staged": {
-    "**/*.jsx?": [
+    "src/**/*.js": [
       "npm run lint:fix",
       "git add"
     ]
