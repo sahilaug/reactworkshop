@@ -1,8 +1,13 @@
 import React from 'react';
 import data from './data';
 
+
+const a = 10;
+
 export default function App() {
   return (
+
+
     <div className="card-container">
       {
         data.map((d) => <Card {...d} />)
