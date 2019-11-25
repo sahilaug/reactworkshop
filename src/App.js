@@ -1,7 +1,6 @@
 import React from 'react';
 import data from './data';
 
-const a = 0;
 export default function App() {
   return (
     <div className="card-container">
@@ -12,11 +11,15 @@ export default function App() {
   );
 }
 
-const Card = ({ show: { name, image: { medium } } }) => (
-  <div className="card p20">
-    <img alt={name} src={medium} className="card-banner-img" />
-    <div>
-      <span>{name}</span>
+const Card = ({ show }) => {
+  const { name, image } = show;
+  const { medium } = image;
+  return (
+    <div className="card p20">
+      <img alt={name} src={medium} className="card-banner-img" />
+      <div>
+        <span>{name}</span>
+      </div>
     </div>
-  </div>
-);
+  );
+};
