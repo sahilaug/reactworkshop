@@ -14,5 +14,5 @@ You will also see any lint errors in the console.
 
 # Guidelines
 
-* The idea of this project is to bring all the attendees on the same page before each session. I will be adding the bulletpoints of what was discussed in the session in the commit message to keep track.
-* The attendees should fork this project and keep use this as a base line for next session 
+- The idea of this project is to bring all the attendees on the same page before each session. I will be adding the bulletpoints of what was discussed in the session in the commit message to keep track.
+- The attendees should clone this project and keep use this as a base line for next session
