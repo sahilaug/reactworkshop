@@ -21,13 +21,20 @@ const Card = ({ show }) => {
       <div>
         <span className="flex-space-between">
           {name}
-          <FontAwesomeIcon icon="heart" style={{ color: isFav ? 'red' : '' }} onClick={() => setFav(!isFav)} />
+          <FontAwesomeIcon
+            icon="heart"
+            style={{ color: isFav ? 'red' : '' }}
+            onClick={() => setFav(!isFav)}
+          />
         </span>
       </div>
       <div>
         <span className="flex-space-between">
           Summary
-          <FontAwesomeIcon icon={isExpanded ? 'angle-up' : 'angle-down'} onClick={() => setExpanded(!isExpanded)} />
+          <FontAwesomeIcon
+            icon={isExpanded ? 'angle-up' : 'angle-down'}
+            onClick={() => setExpanded(!isExpanded)}
+          />
         </span>
         <div>
           {isExpanded ? summary : null}
