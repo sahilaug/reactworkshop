@@ -14,10 +14,10 @@
   justify-content: space-evenly;
 }
 
-.card-banner-img { 
+.card-banner-img {
   height: 200px;
   width: 200px;
-  align-self: center
+  align-self: center;
 }
 
 .card {
@@ -32,4 +32,9 @@
 
 .p20 {
   padding: 20px;
+}
+
+.flex-space-between {
+  display: flex;
+  justify-content: space-between;
 }
