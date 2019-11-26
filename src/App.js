@@ -15,7 +15,7 @@ export default () => {
       <Input name="num1" value={num1} onChange={(val) => setNum1(val)} />
       <Input name="num2" value={num2} onChange={(val) => setNum2(val)} />
       Result:
-      {result}
+      <span data-testid="result">{result}</span>
       <div style={{ padding: '10px' }}>
         <Button text="Add" onClick={onClick} />
       </div>
@@ -25,15 +25,13 @@ export default () => {
 
 const Input = ({ name, onChange, value }) => (
   <div style={{ padding: '10px' }}>
-    <label htmlFor={name}>
+    <label>
       {name}
-      :
+      <input
+        value={value}
+        onChange={(e) => onChange(parseInt(e.target.value, 10))}
+      />
     </label>
-    <input
-      id={name}
-      value={value}
-      onChange={(e) => onChange(parseInt(e.target.value, 10))}
-    />
   </div>
 );
 
@@ -46,3 +44,5 @@ const Button = ({ text, onClick }) => (
 
   </button>
 );
+
+export { Input, Button };
