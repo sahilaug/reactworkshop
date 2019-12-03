@@ -2,6 +2,7 @@
     "shows": [
         {
             "score": 32.082314,
+            "id": 1,
             "show": {
                 "id": 169,
                 "url": "http: //www.tvmaze.com/shows/169/breaking-bad",
@@ -64,6 +65,7 @@
         },
         {
             "score": 17.444408,
+            "id": 2,
             "show": {
                 "id": 27845,
                 "url": "http: //www.tvmaze.com/shows/27845/breaking-bad-original-minisodes",
@@ -127,6 +129,7 @@
         },
         {
             "score": 5.6189013,
+            "id": 3,
             "show": {
                 "id": 1003,
                 "url": "http: //www.tvmaze.com/shows/1003/talking-bad",
@@ -179,6 +182,7 @@
         },
         {
             "score": 4.6049385,
+            "id": 4,
             "show": {
                 "id": 6101,
                 "url": "http: //www.tvmaze.com/shows/6101/breaking-band",
@@ -235,6 +239,7 @@
         },
         {
             "score": 2.291449,
+            "id": 5,
             "show": {
                 "id": 16956,
                 "url": "http: //www.tvmaze.com/shows/16956/baking-mad-with-eric-lanlard",
@@ -291,6 +296,7 @@
         },
         {
             "score": 2.291449,
+            "id": 6,
             "show": {
                 "id": 16956,
                 "url": "http: //www.tvmaze.com/shows/16956/baking-mad-with-eric-lanlard",
